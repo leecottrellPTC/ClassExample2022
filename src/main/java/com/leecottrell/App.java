@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         //push
+        String hello = "Hi Mr. Cottrell :)";
     }
 
     public static void Lee(){
